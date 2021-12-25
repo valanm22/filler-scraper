@@ -1,3 +1,3 @@
 # Intellihack-Master
 
-My submissions for a kaggle hosted hackathon.
+My submission notebook for a kaggle hosted hackathon.
